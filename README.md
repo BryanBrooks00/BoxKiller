@@ -1,6 +1,5 @@
-# BoxKiller
 Privacy Policy
-Siarhei Blakhin built the Box Killer app as a Commercial app. This SERVICE is provided by Siarhei Blakhin and is intended for use as is.
+Siarhei Blakhin built the Box Killer app as an Ad Supported app. This SERVICE is provided by Siarhei Blakhin at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -17,6 +16,7 @@ The app does use third-party services that may collect information used to ident
 Link to the privacy policy of third-party service providers used by the app
 
 Google Play Services
+AdMob
 Unity
 Log Data
 
@@ -54,7 +54,7 @@ Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-12-10
+This policy is effective as of 2022-12-24
 
 Contact Us
 
